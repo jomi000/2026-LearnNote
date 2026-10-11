@@ -4,7 +4,7 @@
 - **作者**：Jiawei Lin, Jiaqi Guo, Shizhao Sun, Zijiang Yang, Jian-Guang Lou, Dongmei Zhang（Microsoft Research）
 - **官方页面**：[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/88a129e44f25a571ae8b838057c46855-Abstract-Conference.html)
 - **开源代码**：[microsoft/LayoutGeneration/LayoutPrompter](https://github.com/microsoft/LayoutGeneration/tree/main/LayoutPrompter)
-- **笔记日期**：2026-10-14
+- **笔记日期**：2026-10-11
 - **记录人**：熊佳敏
 
 ## 1. 一句话总结
